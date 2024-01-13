@@ -1,0 +1,56 @@
+(+91)  7006403889  
+Srinagar, India  
+tabindabhat21@gmail.com  Tabinda Hilal  
+Data Analyst  medium.com/@tabindabhat  
+github.com/Tabinda788  
+linkedin.com/in/tabinda -hilal-a1b539152  
+Experienced data analyst with 3 years of expertise in ensuring data accuracy and deriving actionable insights. Skilled in leveraging 
+data to drive  strategic decision -making, extracting meaningful patterns from large datasets and developing machine learning, 
+deep learning, natural language processing models. Effective communicator, capable of translating technical concepts for non -
+technical stakehold ers. 
+SKILLS  
+Tools  and Languages  Python,  Git, MySQL,  Mongo  dB, PostgreSQL  
+NLP Word  embedding,  NER,  NLTK,  BERT,  Transformers,  Spacy,  Stemming  etc 
+ETL Apache Airflow,  PySpark  etc  
+Web  Scrapping  Selenium,  Beautiful  soup,  Scrapy  etc 
+Analytics  
+TECHNICAL  EXPERIEN  Superset,  Pandas  etc 
+CE 
+Applied Informatics. – Analytics Engineer   
+Dec 2021  — Present                                                                                                                                                                                  India,  Srinagar  
+• Experienced Analytics Engineer, specializing in Patient -Recruit ment Data Analysis for the iConnect Clinical Trials Platform.  
+• Developed insightful dashboards, employing Google Analytics, to showcase crucial metrics, aligning with team needs for 
+comprehensive analysis.  
+• Leveraged superset to analyse healthcare data, crea ting dynamic dashboards and visualizations. Translated data insights 
+into actionable data, aiding data driven decision making.  
+• Proficient in SQL queries, mined and processed complex datasets, transforming raw data into actionable insights for 
+strategic dec ision -making.  
+• Led Web Scraping and Data Automation for Health Information and Research, streamlining data collection and enhancing 
+accessibility for healthcare applications.  
+• Demonstrated proficiency in XML, JSON, and log file analysis, automated ETL proces ses, and utilized Superset for 
+healthcare data analysis, translating insights into actionable data for informed decision -making.  
+ 
+Diatoz Solutions Pvt Ltd.   
+Feb 2021  — Oct 2021                                                                                                                                                                           India,  Bangalore  
+• The project  required  recommending  candidates to  the recruiters  for an End-to-End Recruitment  platform.  
+• My role required creating a Recommendation Engine using Machine Intelligence and Natural language processing to provide  
+personalized  job recommendations  for users.  
+• Extracted Data. Converted it into readable form and recorded  it into different databases like Mongo dB, SQLite and performed  
+CRUD  (create,  read,  update  and delete  operation)  on it. 
+• Conducted  data  pre-processing  and feature  engineering  to extract  relevant  job and user  information.  
+• Worked  with  different  techniques of  NLP and created  a content -based  recommendation  engine.  Used  NER (Named  Entity  
+Recognition)  for identifying  the named  entities  in the annotated  data  from  label  studio.  
+• Created  different  APIS  to integrate  the system  with  the platform  and checked  the results.  
+• Used different NLP modules like TFIDF, DocToVec, Bert Transformers, Minhash and many other Sentence embedding methods to  
+find the text similarity  using  Cosine, Jaccard  and other  similarity  methods.  
+• Trained  and fine-tuned  machine  learning  models  using large -scale  job and user  data.  
+• Used  collaborative  filtering  methods  and implicit  library  for providing  recommendations  for implicit  feedback  dataset  using  matrix  
+factorization  method  and increasing  the quality  of recommending  relevant  candidates  to the recruiters.  
+• Delivered through  UAT testing  and determined  the product  quality  using  postman  to test the  APIS.  
+EDUCATION  
+B. Tech , University  of Kashmir  (8.33  CGPA)  
+PUBLICATIONS  11/2020  
+Diabetes disease prediction using classification algorithms  Here  
+End-to-End Twitter data pipeline from scratch with docker and Apache airflow  Here  
+  
+ 

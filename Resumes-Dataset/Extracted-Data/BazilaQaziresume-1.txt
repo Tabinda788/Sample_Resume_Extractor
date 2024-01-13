@@ -1,0 +1,57 @@
+91-8716009467
+bazilaqazi38@gmail.com
+Gurugram, IndiaC O N T A C T P R O F I L E
+S K I L L S
+E D U C A T I O NW O R K  E X P E R I E N C E
+Manual Testing
+Functional Test ing
+GUI Testing
+Load Testing
+Test Case Design and Execution
+Test Plan Creation and Execution
+Defect Management and Reporting
+Bug Tracking Tools (JIRA, Bugzilla)
+Trace Analysis
+Data Scrambling
+Test Automation (basic knowledge)
+Bachelor of Engineering (BE)
+University of Kashmir
+2017 - 2021,
+CGPA - 8.62/10Associate 1-Software Engineer
+Capgemeni Engineering
+Participate in requirement analysis, review design documents
+and create test cases based on requirements.
+Execute test cases manually and report defects in JIRA or CQ.
+Perform Functional testing, GUI testing, regression testing, and
+user acceptance testing.
+Develop and execute test plans, test cases, and test scenarios
+for various projects.
+Work closely with development and product management
+teams to ensure timely and quality delivery of the software
+product.
+Collaborate with cross-functional teams to resolve defects and
+provide feedback to stakeholders.
+Contribute to the continuous improvement of the testing
+process and methodologies.
+Managing quality assurance practices including project charter,
+plan development, test strategy & test plan development, test
+data and test automation reviews
+Managing functional call execution via LST creation or SIP
+script creation
+Providing information related to software bugs and defects by
+collecting, analysing, and summarizing development & service
+issues
+Performing scrambling of sensitive data from the traces which
+can revile the information of the user via PAE Tool
+Tools: Voice Tool, X-Lite, PAE Tool, Jira, Clear Quest, Test link,
+Bugzilla, Putty, WinSCP, Wireshark
+Projects: Telstra, FRC202022-PresentI am an innovative, task-driven professional seeking a challenging
+opportunity to leverage my skills and domain knowledge within an
+organization. I aim to synergize these capabilities with both my
+personal and organizational growth objectives.
+L A N G U A G E S
+English
+Urdu
+KashmiriB A Z I L A  Q A Z I
+Software Quality Assurance Engineer
+Hindi

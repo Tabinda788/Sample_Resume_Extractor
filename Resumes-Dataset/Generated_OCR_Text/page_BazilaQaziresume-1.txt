@@ -1,0 +1,64 @@
+BAZILA QAZI
+Software Quality Assurance Engineer
+CONTACT
+PROFILE
+91-8716009467
+I am an innovative, task-driven professional seeking a challenging.
+opportunity to leverage my skills and domain knowledge within an
+bazilaqazi38@gmail.com
+organization. I aim to synergize these capabilities with both my
+Gurugram, India
+personal and organizational growth objectives..
+SKILLS
+WORK EXPERIENCE
+. Manual Testing
+Associate 1-Software Engineer
+.Functional Testing
+GUI Testing
+Capgemeni Engineering
+2022-Present
+Load Testing
+ Test Case Design and Execution
+. Participate in requirement analysis, review design documents
+. Test Plan Creation and Execution
+ and create test cases based on requirements..
+: Defect Management and Reporting
+Bug Tracking Tools JIRA,Bugzilla
+Execute test cases manually and report defects in JIRA or CQ
+Trace Analysis
+. Perform Functional testing, GUl testing, regression testing, and
+Data Scrambling
+user acceptance testing.
+Test Automation (basic knowledge)
+. Develop and execute test plans, test cases, and test scenarios
+for various projects.
+EDUCATION
+Work closely with development and product management
+teams to ensure timely and quality delivery of the software
+Bachelor of Engineering (BE)
+product.
+. Collaborate with cross-functional teams to resolve defects and.
+University of Kashmir
+provide feedback to stakeholders.
+2017 - 2021,
+ Contribute to the continuous improvement of the testing
+process and methodologies.
+CGPA - 8.62/10
+Managing quality assurance practices including project charter,
+plan development, test strategy & test plan development, test
+data and test automation reviews
+. Managing functional call execution via LST creation or SIP
+LANGUAGES
+script creation
+ Providing information related to software bugs and defects by
+collecting, analysing, and summarizing development & service
+English
+issues
+Hindi
+Performing scrambling of sensitive data from the traces which
+can revile the information of the user via PAE Tool
+Urdu
+.Tools: Voice Tool, X-Lite, PAE Tool, Jira, Clear Quest, Test link,
+Kashmiri
+Bugzilla, Putty, WinSCP, Wireshark
+.Projects: Telstra, FRC20
